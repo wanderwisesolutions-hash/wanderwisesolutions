@@ -1,0 +1,1 @@
+/* truncated; copy full JS from canvas in real use */
